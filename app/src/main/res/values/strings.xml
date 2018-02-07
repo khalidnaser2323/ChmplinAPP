@@ -28,5 +28,12 @@
     <string name="city">City</string>
     <string name="search">Search</string>
     <string name="gender">Gender</string>
+    <string name="bottom_menu_last_work">LAST WORK</string>
+    <string name="bottom_menu_events">EVENTS</string>
+    <string name="bottom_menu_packages">PACKAGES</string>
+    <string name="bottom_menu_profile">PROFILE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
