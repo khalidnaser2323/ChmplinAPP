@@ -1,4 +1,4 @@
-package com.indeves.chmplinapp;
+package com.indeves.chmplinapp.Activities;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.indeves.chmplinapp.R;
 
 public class UserProfileEventsTab extends Fragment {
     @Override

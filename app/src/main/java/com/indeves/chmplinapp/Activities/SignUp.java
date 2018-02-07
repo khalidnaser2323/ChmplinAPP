@@ -1,7 +1,9 @@
-package com.indeves.chmplinapp;
+package com.indeves.chmplinapp.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.indeves.chmplinapp.R;
 
 public class SignUp extends AppCompatActivity {
 
